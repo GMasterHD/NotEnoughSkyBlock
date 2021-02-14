@@ -1,0 +1,16 @@
+[
+{
+  "modid": "notenoughskyblock",
+  "name": "Not Enough SkyBlock",
+  "description": "This mod is an utility Mod for SkyBlock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/GMasterHD/NotEnoughSkyBlock",
+  "updateUrl": "",
+  "authorList": ["GMasterHD"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
